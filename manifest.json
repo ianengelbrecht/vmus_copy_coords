@@ -1,7 +1,7 @@
 {
   "name": "VMUS Copy Coordinates",
   "description": "Adds a button to copy coordinates from a record conveniently",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "permissions": ["activeTab", "scripting", "clipboardWrite"],
   "action": {
